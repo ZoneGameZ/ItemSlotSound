@@ -1,2 +1,2 @@
-# ItemSlotSounds
+# ItemSlotSound
 Slot ItemHeld For Sound
