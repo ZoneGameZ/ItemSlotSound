@@ -5,11 +5,7 @@ namespace Held;
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
 use pocketmine\Player;
-use pocketmine\entity\Entity;
-use pocketmine\event\entity\EntityDamageEvent;
 use pocketmine\event\player\PlayerItemHeldEvent;
-use pocketmine\event\entity\EntityDamageByEntityEvent;
-use pocketmine\event\player\PlayerDeathEvent;
 use pocketmine\item\Item;
 // Calling the sound function
 // เรียกใช้เสียงต่างๆ
